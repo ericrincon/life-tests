@@ -1,0 +1,169 @@
+*** Life<Cell> 9x9 ***
+
+Generation = 0, Population = 3.
+---------
+---------
+---------
+---------
+---000---
+---------
+---------
+---------
+---------
+
+Generation = 1, Population = 10.
+---------
+---------
+---------
+---000---
+--01-10--
+---000---
+---------
+---------
+---------
+
+Generation = 2, Population = 12.
+---------
+---------
+---000---
+---------
+-01*-*10-
+---------
+---000---
+---------
+---------
+
+Generation = 3, Population = 28.
+---------
+---000---
+--01-10--
+-00-0-00-
+01-.-.-10
+-00-0-00-
+--01-10--
+---000---
+---------
+
+*** Life<Cell> 1x5 ***
+
+Generation = 0, Population = 5.
+00000
+
+Generation = 1, Population = 2.
+1---1
+
+Generation = 2, Population = 2.
+-0-0-
+
+Generation = 3, Population = 2.
+1---1
+
+Generation = 4, Population = 2.
+-0-0-
+
+*** Life<Cell> 5x1 ***
+
+Generation = 0, Population = 5.
+0
+0
+0
+0
+0
+
+Generation = 1, Population = 2.
+1
+-
+-
+-
+1
+
+Generation = 2, Population = 2.
+-
+0
+-
+0
+-
+
+Generation = 3, Population = 2.
+1
+-
+-
+-
+1
+
+Generation = 4, Population = 2.
+-
+0
+-
+0
+-
+
+*** Life<Cell> 4x4 ***
+
+Generation = 0, Population = 16.
+0000
+0000
+0000
+0000
+
+Generation = 1, Population = 8.
+-11-
+1--1
+1--1
+-11-
+
+Generation = 2, Population = 8.
+-**-
+*--*
+*--*
+-**-
+
+Generation = 3, Population = 8.
+-**-
+*--*
+*--*
+-**-
+
+*** Life<Cell> 6x6 ***
+
+Generation = 0, Population = 18.
+--0---
+-000--
+--00--
+--000-
+-00000
+-000-0
+
+Generation = 1, Population = 13.
+--1---
+01--0-
+--11--
+--1---
+0---1-
+0-1-01
+
+Generation = 2, Population = 19.
+0--00-
+1*0--0
+0--*--
+00*-0-
+10-0*-
+1----*
+
+*** Life<Cell> 1x2 ***
+
+Generation = 0, Population = 2.
+00
+
+Generation = 1, Population = 2.
+11
+
+Generation = 2, Population = 2.
+**
+
+Generation = 3, Population = 0.
+..
+
+Generation = 4, Population = 0.
+..
+

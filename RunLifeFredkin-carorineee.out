@@ -1,0 +1,192 @@
+*** Life<FredkinCell> 9x9 ***
+
+Generation = 0, Population = 3.
+---------
+---------
+---------
+---------
+---000---
+---------
+---------
+---------
+---------
+
+Generation = 1, Population = 10.
+---------
+---------
+---------
+---000---
+--01-10--
+---000---
+---------
+---------
+---------
+
+Generation = 2, Population = 12.
+---------
+---------
+---000---
+---------
+-012-210-
+---------
+---000---
+---------
+---------
+
+Generation = 3, Population = 30.
+---------
+---000---
+--01-10--
+-00-0-00-
+01-3-3-10
+-00-0-00-
+--01-10--
+---000---
+---------
+
+*** Life<FredkinCell> 5x5 ***
+
+Generation = 0, Population = 4.
+0---0
+-----
+-----
+-----
+0---0
+
+Generation = 1, Population = 8.
+-0-0-
+0---0
+-----
+0---0
+-0-0-
+
+Generation = 2, Population = 0.
+-----
+-----
+-----
+-----
+-----
+
+Generation = 3, Population = 0.
+-----
+-----
+-----
+-----
+-----
+
+*** Life<FredkinCell> 1x1 ***
+
+Generation = 0, Population = 1.
+0
+
+Generation = 1, Population = 0.
+-
+
+Generation = 2, Population = 0.
+-
+
+Generation = 3, Population = 0.
+-
+
+*** Life<FredkinCell> 1x3 ***
+
+Generation = 0, Population = 3.
+000
+
+Generation = 2, Population = 0.
+---
+
+Generation = 4, Population = 0.
+---
+
+*** Life<FredkinCell> 3x1 ***
+
+Generation = 0, Population = 3.
+0
+0
+0
+
+Generation = 1, Population = 2.
+1
+-
+1
+
+Generation = 2, Population = 0.
+-
+-
+-
+
+Generation = 3, Population = 0.
+-
+-
+-
+
+Generation = 4, Population = 0.
+-
+-
+-
+
+*** Life<FredkinCell> 6x6 ***
+
+Generation = 0, Population = 20.
+000000
+-000-0
+-00--0
+---000
+---0--
+--00-0
+
+Generation = 1, Population = 11.
+1111--
+-1--0-
+0--0--
+-0----
+------
+-01---
+
+Generation = 2, Population = 16.
+22-2--
+02-0-0
+-00---
+--00--
+--0---
+0120--
+
+Generation = 3, Population = 17.
+---300
+-301--
+---0-0
+--110-
+0--0--
+1-310-
+
+*** Life<FredkinCell> 5x5 ***
+
+Generation = 0, Population = 25.
+00000
+00000
+00000
+00000
+00000
+
+Generation = 1, Population = 12.
+-111-
+1---1
+1---1
+1---1
+-111-
+
+Generation = 2, Population = 12.
+-2-2-
+2-0-2
+-0-0-
+2-0-2
+-2-2-
+
+Generation = 3, Population = 4.
+--1--
+-----
+1---1
+-----
+--1--
+
