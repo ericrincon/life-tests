@@ -1,0 +1,92 @@
+*** Life<Cell> 5x8 ***
+
+Generation = 0, Population = 3.
+--------
+0--0----
+--------
+--------
+-----0--
+
+Generation = 2, Population = 10.
+--------
+011--0--
+-----0--
+0--0----
+---0-0-0
+
+Generation = 4, Population = 8.
+-----1--
+*-.11--0
+-----*--
+--------
+-0-----0
+
+*** Life<Cell> 3x9 ***
+
+Generation = 0, Population = 8.
+---------
+0-0----00
+-00-0---0
+
+Generation = 3, Population = 17.
+01--1-00*
+00.0--*-1
+1*0--00-1
+
+Generation = 6, Population = 9.
+1----0--.
+..*0--*1-
+-.-0-.10.
+
+*** Life<Cell> 3x8 ***
+
+Generation = 0, Population = 5.
+0------0
+----0---
+---0--0-
+
+Generation = 2, Population = 13.
+--00-01-
+--0---1-
+00-00101
+
+Generation = 4, Population = 7.
+--0*0*--
+1-------
+--1---*.
+
+*** Life<Cell> 9x3 ***
+
+Generation = 0, Population = 5.
+---
+-0-
+--0
+---
+--0
+---
+0-0
+---
+---
+
+Generation = 5, Population = 9.
+-0-
+---
+-0-
+0-0
+-0-
+0--
+---
+0-0
+-0-
+
+Generation = 10, Population = 8.
+0--
+---
+0--
+-0-
+0-0
+---
+---
+-0-
+0-0
+

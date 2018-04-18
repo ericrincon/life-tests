@@ -1,0 +1,108 @@
+*** Life<FredkinCell> 3x6 ***
+
+Generation = 0, Population = 3.
+--0--0
+-0----
+------
+
+Generation = 1, Population = 5.
+---00-
+0----0
+-0----
+
+Generation = 2, Population = 7.
+0-011-
+---0--
+--0--0
+
+Generation = 3, Population = 10.
+--1220
+0-01-0
+-0--0-
+
+Generation = 4, Population = 5.
+00-3--
+-0---1
+------
+
+*** Life<FredkinCell> 1x3 ***
+
+Generation = 0, Population = 2.
+-00
+
+Generation = 1, Population = 3.
+011
+
+Generation = 2, Population = 2.
+1-2
+
+Generation = 3, Population = 0.
+---
+
+Generation = 4, Population = 0.
+---
+
+Generation = 5, Population = 0.
+---
+
+Generation = 6, Population = 0.
+---
+
+Generation = 7, Population = 0.
+---
+
+*** Life<FredkinCell> 10x4 ***
+
+Generation = 0, Population = 10.
+----
+--0-
+00-0
+---0
+----
+----
+0-0-
+0---
+0--0
+----
+
+Generation = 2, Population = 24.
+00-0
+1--0
+221-
+-112
+-001
+1--0
+2-01
+0-1-
+-1-0
+1---
+
+Generation = 4, Population = 20.
+02-2
+1---
+2--2
+03--
+0--3
+--1-
+-0-1
+--31
+2110
+1---
+
+*** Life<FredkinCell> 3x5 ***
+
+Generation = 0, Population = 10.
+-0000
+000--
+000--
+
+Generation = 2, Population = 8.
+-02-2
+--201
+0-0--
+
+Generation = 4, Population = 10.
+-2214
+104--
+012--
+
